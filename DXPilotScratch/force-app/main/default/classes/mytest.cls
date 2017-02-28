@@ -26,5 +26,6 @@ private class mytest {
     static void myUnitTest() {
        myclass cls = new myclass();
        System.assertEquals(cls.getAppVersion(), '1.0.0');
+       System.assertEquals(cls.getAppVersion(), '2.0.0');
     }
 }
