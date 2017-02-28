@@ -1,0 +1,306 @@
+[
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1488263506000,
+            "changeTime": 1488263506000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1488263506000,
+            "changeTime": 1488263506000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1488267612000,
+            "changeTime": 1488267612000,
+            "contentHash": "720991be2fadcf5de758caf11ef694c0b4032ea5"
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1488263671000,
+            "changeTime": 1488263671000,
+            "contentHash": "db8ac1c259eb89d4a131b253bacfca5f319d54f2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1488263671000,
+            "changeTime": 1488263671000,
+            "contentHash": "2b81f076bb734cac7a58e180981cda471f1a2f3d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorld.cmp",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorld.cmp",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1488263846000,
+            "changeTime": 1488263846000,
+            "contentHash": "068d0df5bd08f295c91ace8472b3f18fa046ac3b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorld.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1488263671000,
+            "changeTime": 1488263671000,
+            "contentHash": "40603cd8afba24b7672fdb1b2c765942097e4b19",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorld.css",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorld.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1488263671000,
+            "changeTime": 1488263671000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorldController.js",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorldController.js",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1488263671000,
+            "changeTime": 1488263671000,
+            "contentHash": "b1b80c03517595de32055092a501e68c53cfb549",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorldHelper.js",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorldHelper.js",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1488263671000,
+            "changeTime": 1488263671000,
+            "contentHash": "a7d178cb9a0ad1a1ff82eac22079a27ab838144b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorldRenderer.js",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/aura/HelloWorld/HelloWorldRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1488263671000,
+            "changeTime": 1488263671000,
+            "contentHash": "b36185dd4dd5079811f45629fdd4b5d44366ca49",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1488264690000,
+            "changeTime": 1488264690000,
+            "contentHash": "fe211d0716ae37924976ab477d320a66b1333d1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/myclass.cls",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/myclass.cls",
+            "isDirectory": false,
+            "size": 117,
+            "modifiedTime": 1488264785000,
+            "changeTime": 1488264785000,
+            "contentHash": "ed897bde7bc034013b288387aafef36b181b8f44",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/myclass.cls-meta.xml",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/myclass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1488264662000,
+            "changeTime": 1488264662000,
+            "contentHash": "b2f0c67154ee000d57919bcd6be51996f30d0d93",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/mytest.cls",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/mytest.cls",
+            "isDirectory": false,
+            "size": 1165,
+            "modifiedTime": 1488266253000,
+            "changeTime": 1488266253000,
+            "contentHash": "10bc5e80975e0cda775e07dd9bbb90ca1a6fe7a5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/mytest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/classes/mytest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 184,
+            "modifiedTime": 1488264690000,
+            "changeTime": 1488264690000,
+            "contentHash": "42b1b4a4cfeed9e3f3c6a6af11a10d92ef1d3e44",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch",
+        {
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1488265755000,
+            "changeTime": 1488265755000,
+            "contentHash": "a1a5d894fbb23111c4638c7a921d2317175cf7b7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/flexipages/HelloWorldApp.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/flexipages/HelloWorldApp.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1001,
+            "modifiedTime": 1488267612000,
+            "changeTime": 1488267612000,
+            "contentHash": "d4b384cc31115da02bd8b769609d1b79451c81fd"
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/tabs/HelloWorldApp.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/tabs/HelloWorldApp.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1488267612000,
+            "changeTime": 1488267612000,
+            "contentHash": "4e9b7bab2aded43c7a50c9055e85f9b1339e9eae"
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1488267612000,
+            "changeTime": 1488267612000,
+            "contentHash": "c24625a07460db8a08db87f14eef9f11652b4017"
+        }
+    ],
+    [
+        "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/BinYu/Projects/Github/forcedotcom/DXPilotScratch/DXPilotScratch/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1488267612000,
+            "changeTime": 1488267612000,
+            "contentHash": "7cc970a5f40f6087270d3f12c8fa549a3055ffb8"
+        }
+    ]
+]

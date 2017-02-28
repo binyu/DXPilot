@@ -1,0 +1,10 @@
+{
+  "Company": "BinYu Company",
+  "Country": "US",
+  "LastName": "BinYu",
+  "Email": "BinYu@capgemini.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
